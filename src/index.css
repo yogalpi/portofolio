@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Luckiest+Guy&family=McLaren&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@font-face {
+    font-family: HelveticaNeueRoman;
+    src: url('assets/fonts/HelveticaNeueRoman.otf');
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
